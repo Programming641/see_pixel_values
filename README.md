@@ -39,6 +39,8 @@ On windows 10
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485631-40f30d34-d069-4a2b-9f28-6e665ff2ac91.png)
 
+### pixels for the choosen coordinates will be displayed like below
+
 ![無題](https://user-images.githubusercontent.com/56218301/143485745-befe2f3a-f3a2-4bb8-90e7-4230ea6668f9.png)
 
 
