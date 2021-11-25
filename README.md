@@ -12,6 +12,7 @@ On windows 10
 
 ![無題](https://user-images.githubusercontent.com/56218301/143484959-f4bfa3e4-aafd-4de0-95c8-b12a92fa6d3a.png)
 
+![enable windows](https://user-images.githubusercontent.com/56218301/143487479-c6af387e-de5f-4716-bdaf-d728b988243b.png)
 
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485252-b73010c1-af0a-45d0-aca3-8f1c4a7bdf5f.png)
