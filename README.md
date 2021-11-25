@@ -21,11 +21,12 @@ On windows 10
 ![無題](https://user-images.githubusercontent.com/56218301/143485339-146297d0-cbf2-40d6-bbc8-093596660226.png)
 
 3. Editing image filenames in html and javascript files.
+
 In html file.
 ![無題](https://user-images.githubusercontent.com/56218301/143486247-37036259-18ae-4a68-b2d3-179285c27368.png)
+
 In javascript file.
 ![無題](https://user-images.githubusercontent.com/56218301/143486315-9d334088-22fa-478d-aedf-c73a7e1c93c7.png)
-
 
 
 3. Open up the web browser and type the address like shown below
