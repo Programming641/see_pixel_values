@@ -4,7 +4,7 @@
 
 On windows 10
 
-1. enable iis (internet information service ) web server
+## 1. enable iis (internet information service ) web server
 
 ![無題](https://user-images.githubusercontent.com/56218301/143484778-de3d3c5e-6469-4eac-98e8-29061f7679b6.png)
 
@@ -16,24 +16,24 @@ On windows 10
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485252-b73010c1-af0a-45d0-aca3-8f1c4a7bdf5f.png)
 
-2. Once iis is enabled, put html, css and script files in document root
+## 2. Once iis is enabled, put html, css and script files in document root
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485339-146297d0-cbf2-40d6-bbc8-093596660226.png)
 
-3. Editing image filenames in html and javascript files.
+## 3. Editing image filenames in html and javascript files.
 
-In html file.
+### In html file.
 ![無題](https://user-images.githubusercontent.com/56218301/143486247-37036259-18ae-4a68-b2d3-179285c27368.png)
 
-In javascript file.
+### In javascript file.
 ![無題](https://user-images.githubusercontent.com/56218301/143486315-9d334088-22fa-478d-aedf-c73a7e1c93c7.png)
 
 
-3. Open up the web browser and type the address like shown below
+## 3. Open up the web browser and type the address like shown below
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485479-85d5b672-6640-45d8-9ee8-08667d0836c3.png)
 
-Web page will be displayed like below. You can click the image and choose the coordinates
+### Web page will be displayed like below. You can click the image and choose the coordinates
 
 ![無題](https://user-images.githubusercontent.com/56218301/143485580-58fc556b-a25b-45d9-9365-904566abd43f.png)
 
