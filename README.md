@@ -23,21 +23,18 @@ On windows 10
 ## 3. Editing image filenames in html and javascript files.
 
 ### In html file.
-![無題](https://user-images.githubusercontent.com/56218301/143486247-37036259-18ae-4a68-b2d3-179285c27368.png)
+
 
 ### In javascript file.
-![無題](https://user-images.githubusercontent.com/56218301/143486315-9d334088-22fa-478d-aedf-c73a7e1c93c7.png)
+
 
 
 ## 3. Open up the web browser and type the address like shown below
 
-![無題](https://user-images.githubusercontent.com/56218301/143485479-85d5b672-6640-45d8-9ee8-08667d0836c3.png)
 
 ### Web page will be displayed like below. You can click the image and choose the coordinates
 
-![無題](https://user-images.githubusercontent.com/56218301/143485580-58fc556b-a25b-45d9-9365-904566abd43f.png)
 
-![無題](https://user-images.githubusercontent.com/56218301/143485631-40f30d34-d069-4a2b-9f28-6e665ff2ac91.png)
 
 ### pixels for the choosen coordinates will be displayed like below
 
