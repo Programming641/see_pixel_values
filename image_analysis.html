@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="stylesheet" type="text/css" href="stylesheet/style.css">
+<script type="text/javascript" src="script/script.js"></script>
+<!--
+bug info: link tag causes the canvas image loading error
+ <link rel="stylesheet" type="text/css" href="stylesheet/style.css">
+-->
+</head>
+<body>
+<h1 style="text-align: center;">Image pixel analysis</h1>
+
+<p id="pageLoadingInfo" >Initial loading tends to fail! please refresh the page! </p>
+<h2>Below is the original picture</h2>
+<div id="divForEnteringPixelCoordinates" class="clearfix">Please click on the image to choose mouse coordinates<br/>
+<p id="pForStartingPosition" class="initiallyHidden"></p>
+<!-- dynamically display the following
+		you have chosen the following for starting position x = 560 , y = 325. <br/> please click again for the ending position-->
+
+<button id="pixelRangeInfoByClicking"  class="initiallyHidden" style=" float:left;" >Yes!!!</button><button id="startOverAgain" style="float: right;" class="initiallyHidden"  >Cancel</button>
+
+</div>
+
+<div id="mouseCoordinateDisplay"></div>
+<canvas id="canvasForOriginalimage">canvas is not supported</canvas>
+<img id="imageSource" src="swan.png" style="display: none;">
+
+
+
+<h2 style="text-align: center;">Chosen range is displayed below</h3>
+<div id="wapperForClippedCanvas" class="clearfix" >
+<div id="ClippedCanvasContainer">
+<canvas id="canvasForClippedImage"  >
+Your browser does not support the HTML5 canvas tag.</canvas>
+</div>
+<div id="aroundCanvas" >
+<h3 >pixel data below </h3>
+<div id="alphaInfo"   ></div>
+<p id="imagePixelDisplay"  >if you see this, there was an error loading image pixel data. Chrome has problem loading the pixel values, so please use another browser. We recommend Firefox as it is our
+main development platform.</p>
+</div></div>
+
+
+<p><strong>Note:</strong> The canvas tag is not supported in Internet 
+Explorer 8 and earlier versions.</p>
+
+</body>
+</html>

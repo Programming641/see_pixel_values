@@ -1,0 +1,76 @@
+button{
+	font-weight: bold;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #668ad8;/*ボタン色*/
+    color: #FFF;
+    border-bottom: solid 4px #627295;
+    border-radius: 3px;
+}
+
+button:active { border-bottom: solid 4px #668ad8;}
+
+canvas{
+	margin: 0; border: 0;
+	padding: 0;
+	background-color: rgb(0, 255, 255);
+}
+
+#wapperForClippedCanvas {
+	margin: auto;
+	width: 31500px;
+}
+
+#ClippedCanvasContainer {
+float:left; 
+margin-left: 10px;
+}
+
+#aroundCanvas {
+margin-left: 15px;
+float: right;
+}
+
+
+#imagePixelDisplay {
+	font-size: 85%;
+}
+
+
+#mouseCoordinateDisplay {
+font-size: 92%;
+	position: relative;
+	width: 330px;
+	height: 100px;
+	border: 10px solid #73AD21;
+		display: none;
+}
+
+
+
+#divForEnteringPixelCoordinates {
+	display: none;
+font-size: 92%;
+font-weight: bold;
+	padding: 5px;
+	width: 260px;
+	position: fixed;
+	top: 280px;
+	left: 450px;
+	border: 10px solid #73AD21;
+	background-color: coral;
+    color: white;
+}
+
+.initiallyHidden {
+	display: none;
+}
+
+
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
