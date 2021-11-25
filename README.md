@@ -27,7 +27,7 @@ you need to provide image in html and javascript files.
 
 
 ### In html file.
-![html edit](https://user-images.githubusercontent.com/56218301/143487234-95231e31-4edc-4e31-83a0-91551a89a067.png)
+![html edit](https://user-images.githubusercontent.com/56218301/143487620-cf0aef09-bba1-4796-8fb2-b0cc7a6f4b98.png)
 
 
 ### In javascript file.
